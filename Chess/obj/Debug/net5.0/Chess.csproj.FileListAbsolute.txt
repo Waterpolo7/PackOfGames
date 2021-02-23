@@ -1,0 +1,16 @@
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/bin/Debug/net5.0/Chess
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/bin/Debug/net5.0/Chess.deps.json
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/bin/Debug/net5.0/Chess.runtimeconfig.json
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/bin/Debug/net5.0/Chess.runtimeconfig.dev.json
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/bin/Debug/net5.0/Chess.dll
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/bin/Debug/net5.0/ref/Chess.dll
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/bin/Debug/net5.0/Chess.pdb
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/obj/Debug/net5.0/Chess.csprojAssemblyReference.cache
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/obj/Debug/net5.0/Chess.GeneratedMSBuildEditorConfig.editorconfig
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/obj/Debug/net5.0/Chess.AssemblyInfoInputs.cache
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/obj/Debug/net5.0/Chess.AssemblyInfo.cs
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/obj/Debug/net5.0/Chess.csproj.CoreCompileInputs.cache
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/obj/Debug/net5.0/Chess.dll
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/obj/Debug/net5.0/ref/Chess.dll
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/obj/Debug/net5.0/Chess.pdb
+/media/remi/843acc97-0aaa-4af2-ab20-d8b4dc93a873/Documents/VsCode/Projects/Chess/obj/Debug/net5.0/Chess.genruntimeconfig.cache
